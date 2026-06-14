@@ -1,5 +1,5 @@
 
-🚀 Smart Research Assistant | Spring Boot & Spring AI
+🚀 IntelliAssist-AI-Powered-Knowledge-Assistant| Spring Boot & Spring AI
 
 A powerful AI-driven research assistant built using Spring Boot and Spring AI, designed to help users quickly gather, analyze, and summarize information from various sources. This project demonstrates how to integrate modern LLM-based capabilities into Java applications for intelligent automation.
 
